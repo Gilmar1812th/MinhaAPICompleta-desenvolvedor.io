@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj": {}
+  },
+  "projects": {
+    "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj",
+        "projectName": "DevIO.API",
+        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj",
+        "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
+        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
+                "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj"
+              },
+              "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {
+                "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameWorkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
+        "projectName": "devio.business",
+        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
+        "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
+        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
+        "projectName": "devio.data",
+        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
+        "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
+        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
+                "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

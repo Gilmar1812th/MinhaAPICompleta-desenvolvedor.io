@@ -1,0 +1,30 @@
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Users\Gilmar\Desktop\Gilmar\Cursos\C#\Eduardo Pires\REST com ASP.NET Core WebAPI\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
+C:\labs\MinhaAPICompleta\src\devio.data\bin\Debug\net6.0\devio.data.deps.json
+C:\labs\MinhaAPICompleta\src\devio.data\bin\Debug\net6.0\devio.data.dll
+C:\labs\MinhaAPICompleta\src\devio.data\bin\Debug\net6.0\devio.data.pdb
+C:\labs\MinhaAPICompleta\src\devio.data\bin\Debug\net6.0\devio.business.dll
+C:\labs\MinhaAPICompleta\src\devio.data\bin\Debug\net6.0\devio.business.pdb
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.csproj.AssemblyReference.cache
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.AssemblyInfoInputs.cache
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.AssemblyInfo.cs
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.csproj.CoreCompileInputs.cache
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.csproj.CopyComplete
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.dll
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\refint\devio.data.dll
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.pdb
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\ref\devio.data.dll
