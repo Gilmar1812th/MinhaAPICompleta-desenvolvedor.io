@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aXvmGIAgkG1B8Jxab2D0S0FcECpBwizz+4LQOGXS/n3nCkUeWAxj5iEFpvrCYVp0BZ6f2+1xjFhvtv0LSaMePw==",
+  "dgSpecHash": "C9c99Ogup+lJNP1ksP5ujmWc8z4ukgK02Eh6KxLDcb/kD0NdPsUqDwBGtfIK95HJLt7TmpOA5xu7oIvDEUzLcw==",
   "success": true,
-  "projectFilePath": "c:\\labs\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
+  "projectFilePath": "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gilmar\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Gilmar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
