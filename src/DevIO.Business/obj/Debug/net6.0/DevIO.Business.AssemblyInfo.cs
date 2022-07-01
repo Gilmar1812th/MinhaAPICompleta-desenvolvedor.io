@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("devio.business")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DevIO.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("devio.business")]
-[assembly: System.Reflection.AssemblyTitleAttribute("devio.business")]
+[assembly: System.Reflection.AssemblyProductAttribute("DevIO.Business")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DevIO.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

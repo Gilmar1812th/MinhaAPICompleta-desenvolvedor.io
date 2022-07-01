@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\labs\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {}
+    "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {}
   },
   "projects": {
-    "C:\\labs\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
-        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,12 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[10.3.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
             }
           },
           "imports": [
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

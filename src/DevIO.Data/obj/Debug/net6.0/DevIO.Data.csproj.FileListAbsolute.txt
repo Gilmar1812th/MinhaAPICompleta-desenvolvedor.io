@@ -28,3 +28,5 @@ C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.dll
 C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\refint\devio.data.dll
 C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\devio.data.pdb
 C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\ref\devio.data.dll
+C:\labs\MinhaAPICompleta\src\devio.data\bin\Debug\net6.0\DevIO.Data.runtimeconfig.json
+C:\labs\MinhaAPICompleta\src\devio.data\obj\Debug\net6.0\DevIO.Data.genruntimeconfig.cache

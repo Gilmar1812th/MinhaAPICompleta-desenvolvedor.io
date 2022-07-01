@@ -22,3 +22,5 @@ C:\labs\MinhaAPICompleta\src\devio.business\obj\Debug\net6.0\devio.business.dll
 C:\labs\MinhaAPICompleta\src\devio.business\obj\Debug\net6.0\refint\devio.business.dll
 C:\labs\MinhaAPICompleta\src\devio.business\obj\Debug\net6.0\devio.business.pdb
 C:\labs\MinhaAPICompleta\src\devio.business\obj\Debug\net6.0\ref\devio.business.dll
+C:\labs\MinhaAPICompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.runtimeconfig.json
+C:\labs\MinhaAPICompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.genruntimeconfig.cache

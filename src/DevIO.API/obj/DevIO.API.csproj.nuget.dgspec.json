@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj": {}
+    "c:\\labs\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj": {}
   },
   "projects": {
-    "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj": {
+    "c:\\labs\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj",
+        "projectUniqueName": "c:\\labs\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
         "projectName": "DevIO.API",
-        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\DevIO.API.csproj",
+        "projectPath": "c:\\labs\\MinhaAPICompleta\\src\\DevIO.API\\DevIO.API.csproj",
         "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
-        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.api\\obj\\",
+        "outputPath": "c:\\labs\\MinhaAPICompleta\\src\\DevIO.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
-                "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj"
+              "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
+                "projectPath": "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj"
               },
-              "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {
-                "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj"
+              "c:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {
+                "projectPath": "c:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj"
               }
             }
           }
@@ -50,6 +50,10 @@
               "version": "[11.0.0, )"
             },
             "Microsoft.EntityFrameWorkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[6.0.6, )"
             },
@@ -76,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
+    "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
+        "projectUniqueName": "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
         "projectName": "devio.business",
-        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
+        "projectPath": "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
         "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
-        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\obj\\",
+        "outputPath": "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -134,18 +138,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {
+    "c:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
+        "projectUniqueName": "c:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
         "projectName": "devio.data",
-        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
+        "projectPath": "c:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
         "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
-        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\obj\\",
+        "outputPath": "c:\\labs\\MinhaAPICompleta\\src\\devio.data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -160,8 +164,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
-                "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj"
+              "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
+                "projectPath": "c:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj"
               }
             }
           }
@@ -204,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
