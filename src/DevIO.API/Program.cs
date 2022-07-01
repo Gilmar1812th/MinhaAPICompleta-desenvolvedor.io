@@ -1,6 +1,8 @@
 using System.Reflection;
 using DevIO.API.Configuration;
+using DevIO.Business.Intefaces;
 using DevIO.Data.Context;
+using DevIO.Data.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
@@ -19,7 +21,10 @@ builder.Configuration
 // Adicionando suporte ao contexto do Identity via EF
 // Add services to the container.
 builder.Services.AddDbContext<MeuDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+{
+    options.UseSqlServer(
+        builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
