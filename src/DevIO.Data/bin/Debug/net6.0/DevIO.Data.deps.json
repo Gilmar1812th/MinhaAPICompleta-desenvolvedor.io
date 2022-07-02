@@ -6,16 +6,16 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "DevIO.Data/1.0.0": {
+      "devio.data/1.0.0": {
         "dependencies": {
-          "DevIO.Business": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.6",
           "Microsoft.EntityFrameworkCore.Design": "6.0.6",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.6",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.6"
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.6",
+          "devio.business": "1.0.0"
         },
         "runtime": {
-          "DevIO.Data.dll": {}
+          "devio.data.dll": {}
         }
       },
       "FluentValidation/10.3.6": {
@@ -488,18 +488,18 @@
           }
         }
       },
-      "DevIO.Business/1.0.0": {
+      "devio.business/1.0.0": {
         "dependencies": {
           "FluentValidation": "10.3.6"
         },
         "runtime": {
-          "DevIO.Business.dll": {}
+          "devio.business.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DevIO.Data/1.0.0": {
+    "devio.data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -805,7 +805,7 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
-    "DevIO.Business/1.0.0": {
+    "devio.business/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

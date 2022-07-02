@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w0iN5AELEP0Czy22D5cfKuFRn63nU6EisLi6qZu30jBuXPp5+zA2Djf2nnAY/wY1UP6aCwSKrOZcMpxU7K23ug==",
+  "dgSpecHash": "dTd3/9nrzAQL3a/rE5a9skvLasenpewrWN1KQdvnyyYUZ7KL8IJcqPzaXw9hNDzs1zbN9RVDo2PYwL3EFYKxNQ==",
   "success": true,
-  "projectFilePath": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "projectFilePath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gilmar\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Gilmar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

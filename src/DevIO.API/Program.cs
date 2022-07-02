@@ -115,5 +115,11 @@ app.MapRazorPages();
 
 app.MapControllers();
 
+using (var scope = app.Services.CreateScope())
+{
+    var dataContext = scope.ServiceProvider.GetRequiredService<MeuDbContext>();
+    dataContext.Database.Migrate();
+}
+
 // Coloca a aplicação para rodar.
 app.Run();

@@ -62,3 +62,9 @@ C:\labs\MinhaAPICompleta\src\devio.api\obj\Debug\net6.0\refint\DevIO.API.dll
 C:\labs\MinhaAPICompleta\src\devio.api\obj\Debug\net6.0\DevIO.API.pdb
 C:\labs\MinhaAPICompleta\src\devio.api\obj\Debug\net6.0\DevIO.API.genruntimeconfig.cache
 C:\labs\MinhaAPICompleta\src\devio.api\obj\Debug\net6.0\ref\DevIO.API.dll
+C:\labs\MinhaAPICompleta\src\devio.api\bin\Debug\net6.0\DevIO.API.xml
+C:\labs\MinhaAPICompleta\src\devio.api\bin\Debug\net6.0\AutoMapper.dll
+C:\labs\MinhaAPICompleta\src\devio.api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\labs\MinhaAPICompleta\src\devio.api\bin\Debug\net6.0\Humanizer.dll
+C:\labs\MinhaAPICompleta\src\devio.api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\labs\MinhaAPICompleta\src\devio.api\obj\Debug\net6.0\DevIO.API.xml

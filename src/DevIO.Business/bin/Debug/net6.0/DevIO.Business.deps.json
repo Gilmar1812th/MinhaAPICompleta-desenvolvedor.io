@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "DevIO.Business/1.0.0": {
+      "devio.business/1.0.0": {
         "dependencies": {
           "FluentValidation": "10.3.6",
           "Microsoft.EntityFrameworkCore.Design": "6.0.6"
         },
         "runtime": {
-          "DevIO.Business.dll": {}
+          "devio.business.dll": {}
         }
       },
       "FluentValidation/10.3.6": {
@@ -198,7 +198,7 @@
     }
   },
   "libraries": {
-    "DevIO.Business/1.0.0": {
+    "devio.business/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

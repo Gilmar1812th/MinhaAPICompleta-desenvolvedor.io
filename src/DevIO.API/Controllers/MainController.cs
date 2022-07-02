@@ -16,22 +16,10 @@ namespace DevIO.Api.Controllers
         // Validação da operação de negócio    
 
         private readonly INotificador _notificador;
-        public readonly IUser AppUser;
 
-        protected Guid UsuarioId { get; set; }
-        protected bool UsuarioAutenticado { get; set; }
-
-        protected MainController(INotificador notificador, 
-                                 IUser appUser)
+        protected MainController(INotificador notificador)
         {
             _notificador = notificador;
-            AppUser = appUser;
-
-            if (appUser.IsAuthenticated())
-            {
-                UsuarioId = appUser.GetUserId();
-                UsuarioAutenticado = true;
-            }
         }
 
         protected bool OperacaoValida()

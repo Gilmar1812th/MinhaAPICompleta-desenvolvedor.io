@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\labs\\minhaapicompleta\\src\\devio.data\\DevIO.Data.csproj": {}
+    "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {}
   },
   "projects": {
-    "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
-        "projectName": "DevIO.Business",
-        "projectPath": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
+        "projectName": "devio.business",
+        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj",
         "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
-        "outputPath": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\labs\\minhaapicompleta\\src\\devio.data\\DevIO.Data.csproj": {
+    "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\labs\\minhaapicompleta\\src\\devio.data\\DevIO.Data.csproj",
-        "projectName": "DevIO.Data",
-        "projectPath": "C:\\labs\\minhaapicompleta\\src\\devio.data\\DevIO.Data.csproj",
+        "projectUniqueName": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
+        "projectName": "devio.data",
+        "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\devio.data.csproj",
         "packagesPath": "C:\\Users\\Gilmar\\.nuget\\packages\\",
-        "outputPath": "C:\\labs\\minhaapicompleta\\src\\devio.data\\obj\\",
+        "outputPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gilmar\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\labs\\minhaapicompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj": {
+                "projectPath": "C:\\labs\\MinhaAPICompleta\\src\\devio.business\\devio.business.csproj"
               }
             }
           }
